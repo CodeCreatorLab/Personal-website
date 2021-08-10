@@ -3,6 +3,7 @@ This website is made for the Showcasing the the talents and Skills of one and ca
 
 NOTE:---
 ----------------------------------------------------------------------------------
-first open the landing page which can lead you to my all handles and main website.
+first select all the files of html & css and move them in the self bio website folder
+and then unzip the rar file
 ----------------------------------------------------------------------------------
 
